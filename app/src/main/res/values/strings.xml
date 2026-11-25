@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Enmar Launcher</string>
+    <string name="search_hint">Search apps...</string>
+    <string name="add_widget">+ Widget</string>
+    <string name="apps_btn">Apps</string>
+    <string name="close_btn">Close</string>
+    <string name="remove_widget_title">Remove Widget?</string>
+    <string name="remove">Remove</string>
+    <string name="cancel">Cancel</string>
+    <string name="app_info">App Info</string>
+    <string name="uninstall">Uninstall</string>
+</resources>
